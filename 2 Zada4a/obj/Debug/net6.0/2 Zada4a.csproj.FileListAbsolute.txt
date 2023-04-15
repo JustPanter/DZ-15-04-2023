@@ -1,0 +1,15 @@
+D:\Обучение\DZ-15-04-2023\2 Zada4a\bin\Debug\net6.0\2 Zada4a.exe
+D:\Обучение\DZ-15-04-2023\2 Zada4a\bin\Debug\net6.0\2 Zada4a.deps.json
+D:\Обучение\DZ-15-04-2023\2 Zada4a\bin\Debug\net6.0\2 Zada4a.runtimeconfig.json
+D:\Обучение\DZ-15-04-2023\2 Zada4a\bin\Debug\net6.0\2 Zada4a.dll
+D:\Обучение\DZ-15-04-2023\2 Zada4a\bin\Debug\net6.0\2 Zada4a.pdb
+D:\Обучение\DZ-15-04-2023\2 Zada4a\obj\Debug\net6.0\2 Zada4a.csproj.AssemblyReference.cache
+D:\Обучение\DZ-15-04-2023\2 Zada4a\obj\Debug\net6.0\2 Zada4a.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\DZ-15-04-2023\2 Zada4a\obj\Debug\net6.0\2 Zada4a.AssemblyInfoInputs.cache
+D:\Обучение\DZ-15-04-2023\2 Zada4a\obj\Debug\net6.0\2 Zada4a.AssemblyInfo.cs
+D:\Обучение\DZ-15-04-2023\2 Zada4a\obj\Debug\net6.0\2 Zada4a.csproj.CoreCompileInputs.cache
+D:\Обучение\DZ-15-04-2023\2 Zada4a\obj\Debug\net6.0\2 Zada4a.dll
+D:\Обучение\DZ-15-04-2023\2 Zada4a\obj\Debug\net6.0\refint\2 Zada4a.dll
+D:\Обучение\DZ-15-04-2023\2 Zada4a\obj\Debug\net6.0\2 Zada4a.pdb
+D:\Обучение\DZ-15-04-2023\2 Zada4a\obj\Debug\net6.0\2 Zada4a.genruntimeconfig.cache
+D:\Обучение\DZ-15-04-2023\2 Zada4a\obj\Debug\net6.0\ref\2 Zada4a.dll
